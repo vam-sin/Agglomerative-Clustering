@@ -3,8 +3,9 @@ Agglomerative Clustering done in three different methods. The methods being Sing
 The following are the results that I've obtained after the clustering process.
 
 ## Single Link
-
+![Screenshot](single.png)
 ## Complete Link
-
+![Screenshot](complete.png)
 ## Average Link
+![Screenshot](average.png)
 
